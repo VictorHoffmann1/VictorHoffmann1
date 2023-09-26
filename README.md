@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victor Hoffmann. Data Science / AI Student at Institut Polytechnique de Paris</h1>
+<h1>Hi, I'm Victor Hoffmann, Data Science / AI Student at Institut Polytechnique de Paris</h1>
 
 <h2>🔭 Research Projects in Laboratories:</h2>
 
@@ -14,7 +14,7 @@
 - <b>Return Forecasting of Cryptocurrency Clusters (2022), Napoleon X </b>
   - [Return Forecasting of Cryptocurrency Clusters, Data Challenge](https://github.com/VictorHoffmann1/ENS-Challenge-Data-Cryptocurrency-Clusters)
   
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me on LinkedIn:</h2>
 
 [<img align="left" alt="Victor-Hoffmann-AI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
