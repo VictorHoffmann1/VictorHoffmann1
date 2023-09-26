@@ -16,6 +16,4 @@
   
 <h2> 🤳 Connect with me on LinkedIn:</h2>
 
-[<img align="left" alt="Victor-Hoffmann-AI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/victor-hoffmann-ai/
+[@Victor-Hoffmann-AI](https://www.linkedin.com/in/victor-hoffmann-ai/)
