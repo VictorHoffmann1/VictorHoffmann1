@@ -3,7 +3,7 @@
 <h2>🔭 Research Projects in Laboratories:</h2>
 
 - <b>Lorraine Research Laboratory in Computer Science and its Applications (LORIA) </b>
-  - [AI-Based DMA Curves Extraction Using on Microstructure Images](https://github.com/VictorHoffmann1/DUNNE-Research-Project-LORIA)
+  - [AI-Based DMA Curves Extraction Using Microstructure Images](https://github.com/VictorHoffmann1/DUNNE-Research-Project-LORIA)
 - <b>National Institute for Research in Digital Science and Technology (INRIA)</b>
   - [Machine Learning Techniques for Fragmentation Problems](https://github.com/VictorHoffmann1/Research-Project-INRIA-IECL)
 
