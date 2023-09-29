@@ -14,6 +14,11 @@
 - <b>Return Forecasting of Cryptocurrency Clusters (2022), Napoleon X </b>
   - [Return Forecasting of Cryptocurrency Clusters, Data Challenge](https://github.com/VictorHoffmann1/ENS-Challenge-Data-Cryptocurrency-Clusters)
  
+<h2>✍️ Personal Projects:</h2>
+
+- <b> Real-Time Segmentation for Biomedical Imaging </b>
+  - [FastSAM for Real-Time MRI Brain Scans](https://github.com/VictorHoffmann1/FastSAM-Biomedical-Imaging)
+ 
 <h2> 🧰 Languages and Tools:</h2>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
