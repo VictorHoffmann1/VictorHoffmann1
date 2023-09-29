@@ -17,7 +17,7 @@
 <h2>✍️ Personal Projects:</h2>
 
 - <b> Real-Time Segmentation for Biomedical Imaging </b>
-  - [FastSAM for Real-Time MRI Brain Scans](https://github.com/VictorHoffmann1/FastSAM-Biomedical-Imaging)
+  - [FastSAM for Real-Time MRI Brain Scans (Epilepsy Warning)](https://github.com/VictorHoffmann1/FastSAM-Biomedical-Imaging)
  
 <h2> 🧰 Languages and Tools:</h2>
 
