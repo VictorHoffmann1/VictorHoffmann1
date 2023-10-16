@@ -6,13 +6,6 @@
   - [AI-Based DMA Curves Extraction Using Microstructure Images](https://github.com/VictorHoffmann1/DUNNE-Research-Project-LORIA)
 - <b>National Institute for Research in Digital Science and Technology (INRIA)</b>
   - [Machine Learning Techniques for Fragmentation Problems](https://github.com/VictorHoffmann1/Research-Project-INRIA-IECL)
-
-<h2>👨‍💻 ENS Data Challenges:</h2>
-
-- <b>Real Estate Price Prediction (2022), Louis Bachelier Institute </b>
-  - [Real Estate Price Prediction, Data Challenge](https://github.com/VictorHoffmann1/ENS-Challenge-Data-Real-Estate)
-- <b>Return Forecasting of Cryptocurrency Clusters (2022), Napoleon X </b>
-  - [Return Forecasting of Cryptocurrency Clusters, Data Challenge](https://github.com/VictorHoffmann1/ENS-Challenge-Data-Cryptocurrency-Clusters)
  
 <h2>✍️ Personal Projects:</h2>
 
@@ -20,6 +13,13 @@
   - [YoloV8 and ByteTrack for Traffic Management](https://github.com/VictorHoffmann1/Traffic-Management-Smart-Cities)
 - <b> Real-Time Segmentation for Biomedical Imaging </b>
   - [FastSAM for Real-Time MRI Brain Scans (Epilepsy Warning)](https://github.com/VictorHoffmann1/FastSAM-Biomedical-Imaging)
+
+<h2>👨‍💻 ENS Data Challenges:</h2>
+
+- <b>Real Estate Price Prediction (2022), Louis Bachelier Institute </b>
+  - [Real Estate Price Prediction, Data Challenge](https://github.com/VictorHoffmann1/ENS-Challenge-Data-Real-Estate)
+- <b>Return Forecasting of Cryptocurrency Clusters (2022), Napoleon X </b>
+  - [Return Forecasting of Cryptocurrency Clusters, Data Challenge](https://github.com/VictorHoffmann1/ENS-Challenge-Data-Cryptocurrency-Clusters)
  
 <h2> 🧰 Languages and Tools:</h2>
 
