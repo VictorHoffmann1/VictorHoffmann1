@@ -16,6 +16,8 @@
  
 <h2>✍️ Personal Projects:</h2>
 
+- <b> Vehicle Recognition for Smart Cities </b>
+  - [YoloV8 and ByteTrack for Traffic Management](https://github.com/VictorHoffmann1/Traffic-Management-Smart-Cities)
 - <b> Real-Time Segmentation for Biomedical Imaging </b>
   - [FastSAM for Real-Time MRI Brain Scans (Epilepsy Warning)](https://github.com/VictorHoffmann1/FastSAM-Biomedical-Imaging)
  
