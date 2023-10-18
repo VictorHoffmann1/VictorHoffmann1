@@ -9,6 +9,8 @@
  
 <h2>✍️ Personal Projects:</h2>
 
+- <b> Real-Time Room Depth Estimation With Monocular Camera </b>
+  - [MiDaS for Real-Time Depth Estimation](https://github.com/VictorHoffmann1/Real-Time-Depth-Estimation)
 - <b> Vehicle Recognition for Smart Cities </b>
   - [YoloV8 and ByteTrack for Traffic Management](https://github.com/VictorHoffmann1/Traffic-Management-Smart-Cities)
 - <b> Real-Time Segmentation for Biomedical Imaging </b>
