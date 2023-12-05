@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victor Hoffmann, Data Science / AI Student at Institut Polytechnique de Paris.</h1>
+<h1>Hi, I'm Victor Hoffmann, AI Student at Institut Polytechnique de Paris.</h1>
 
 <h2>🔭 Research Projects in Laboratories:</h2>
 
