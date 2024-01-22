@@ -16,6 +16,10 @@
 - <b> Real-Time Segmentation for Biomedical Imaging </b>
   - [FastSAM for Real-Time MRI Brain Scans (Epilepsy Warning)](https://github.com/VictorHoffmann1/FastSAM-Biomedical-Imaging)
 
+<h2>✍️ Contribution to Open-Source Communities:</h2>
+- <b>Implementation of a Streaming Graph Anomaly Detection Algorithm on River, a Python Online Learning API </b>
+- [Implementation of AnoGraph for River API](https://github.com/VictorHoffmann1/AnoGraph-for-River-API)
+
 <h2>👨‍💻 ENS Data Challenges:</h2>
 
 - <b>Real Estate Price Prediction (2022), Louis Bachelier Institute </b>
