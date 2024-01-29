@@ -23,7 +23,7 @@
 
 <h2>👨‍💻 Data Challenges & Hackathons:</h2>
 
-- <b> Hi!ckathon 4th edition, Hi! Paris (Won apgemini’s Best Scientific Approach Award) </b>
+- <b> Hi!ckathon 4th edition, Hi! Paris (Won Capgemini’s Best Scientific Approach Award) </b>
   - [Team 5, Hi!ckathon 4th edition, Hi! Paris](https://github.com/VictorHoffmann1/Team-5-Hackathon-4-Hi-Paris)
 - <b>Real Estate Price Prediction (2022), Louis Bachelier Institute, ENS Data Challenge </b>
   - [Real Estate Price Prediction, Data Challenge](https://github.com/VictorHoffmann1/ENS-Challenge-Data-Real-Estate)
