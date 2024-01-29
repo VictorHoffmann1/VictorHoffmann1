@@ -21,11 +21,13 @@
 - <b> Implementation of a Streaming Graph Anomaly Detection Algorithm on River, a Python Online Learning API </b>
   - [Implementation of AnoGraph for River API](https://github.com/VictorHoffmann1/AnoGraph-for-River-API)
 
-<h2>👨‍💻 ENS Data Challenges:</h2>
+<h2>👨‍💻 Data Challenges & Hackathons:</h2>
 
-- <b>Real Estate Price Prediction (2022), Louis Bachelier Institute </b>
+- <b> Hi!ckathon 4th edition, Hi! Paris (Won apgemini’s Best Scientific Approach Award) </b>
+  - [Team 5, Hi!ckathon 4th edition, Hi! Paris](https://github.com/VictorHoffmann1/Team-5-Hackathon-4-Hi-Paris)
+- <b>Real Estate Price Prediction (2022), Louis Bachelier Institute, ENS Data Challenge </b>
   - [Real Estate Price Prediction, Data Challenge](https://github.com/VictorHoffmann1/ENS-Challenge-Data-Real-Estate)
-- <b>Return Forecasting of Cryptocurrency Clusters (2022), Napoleon X </b>
+- <b>Return Forecasting of Cryptocurrency Clusters (2022), Napoleon X, ENS Data Challenge </b>
   - [Return Forecasting of Cryptocurrency Clusters, Data Challenge](https://github.com/VictorHoffmann1/ENS-Challenge-Data-Cryptocurrency-Clusters)
  
 <h2> 🧰 Languages and Tools:</h2>
