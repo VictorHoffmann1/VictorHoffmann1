@@ -21,7 +21,7 @@
 - <b> Implementation of a Streaming Graph Anomaly Detection Algorithm on River, a Python Online Learning API </b>
   - [Implementation of AnoGraph for River API](https://github.com/VictorHoffmann1/AnoGraph-for-River-API)
  
-<h2>🌎 Article Implementations:</h2>
+<h2>📄 Article Implementations:</h2>
 
 - <b> Rainbow: Combining Improvements in Deep Reinforcement Learning Implementation </b>
   - [Rainbow Agent on Atari Games]([https://github.com/VictorHoffmann1/AnoGraph-for-River-API](https://github.com/Manuelnkegoum-8/Rainbow_is_all_we_need))
