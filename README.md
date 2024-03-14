@@ -26,7 +26,7 @@
 - <b> Rainbow: Combining Improvements in Deep Reinforcement Learning Implementation </b>
   - [Rainbow Agent on Atari Games](https://github.com/Manuelnkegoum-8/Rainbow_is_all_we_need)
 - <b> CausalVAE: Structured Causal Disentanglement in Variational Autoencoder Implementation </b>
-  - Currently in Progress
+  - [CausalVAE on Flow and Pendulum](https://github.com/VictorHoffmann1/CausalVAE)
 
 
 <h2>👨‍💻 Data Challenges & Hackathons:</h2>
