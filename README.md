@@ -1,5 +1,3 @@
-<h1>Hi, I'm Victor Hoffmann, Computer Vision Research Intern at Sony and AI Student at Institut Polytechnique de Paris.</h1>
-
 <h2>🔭 Research Projects in Laboratories:</h2>
 
 - <b>Lorraine Research Laboratory in Computer Science and its Applications (LORIA) </b>
