@@ -1,4 +1,4 @@
-<h2 Research Projects in Laboratories:</h2>
+<h2> Research Projects:</h2>
 
 - <b>Lorraine Research Laboratory in Computer Science and its Applications (LORIA) </b>
   - [Deep Learning Approaches for Dynamic Mechanical Analysis of Viscoelastic Fiber Composites](https://github.com/VictorHoffmann1/DUNNE-Research-Project-LORIA)
